@@ -1,4 +1,5 @@
 # 💫 About Me:
+- Aspiring front-end web designer
 - Studying web design at NAIT
 - Building class and portfolio projects
 - Interested in creating clean attractive layouts, usability, and front-end work
