@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi im Ethan Hutchinson 👋
 
-<!--
-**Ethan-Hutchinson-nait/Ethan-Hutchinson-Nait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome! I am a web design student focused on front-end development, UI/UX, and responsive websites.
 
-Here are some ideas to get you started:
+## About Me
+- Studying web design at NAIT
+- Building class and portfolio projects
+- Interested in clean layouts, usability, and front-end work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- HTML
+- CSS
+- JavaScript
+- UI/UX Design
+
+## Website
+- Portfolio: [ethanhutch.com](https://ethanhutch.com)
+
+## Contact Me
+- Email: Hutche10@gmail.com
